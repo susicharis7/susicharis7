@@ -13,7 +13,7 @@
 ### Software Engineering Student | Web & Mobile Developer 🚀
 
 I'm a **3rd-year Software Engineering student** who enjoys building modern, clean and practical applications.  
-I mostly work with **React**, **React Native**, **Java**, and **MySQL**, and I'm always focused on improving my skills through real projects.  
+I mostly work with **React**, **React Native** and I'm always focused on improving my skills through real projects.  
 📌 You can find my main projects **pinned below** on my GitHub profile.
 
 ---
@@ -59,8 +59,8 @@ I mostly work with **React**, **React Native**, **Java**, and **MySQL**, and I'm
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susicharis7&layout=compact&theme=tokyonight" />
+  <img width="49%" height="49%" src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight" />
+  <img width="49%" height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susicharis7&layout=compact&theme=tokyonight" />
 </p>
 
 ---
