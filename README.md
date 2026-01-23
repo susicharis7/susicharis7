@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👨🏻‍💻 Sušić Haris
 
 <!--
 **susicharis7/susicharis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
