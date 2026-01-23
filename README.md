@@ -59,9 +59,10 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" height="49%" src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight" />
-  <img width="49%" height="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susicharis7&layout=compact&theme=tokyonight" />
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight&card_height=180" />
+  <img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=susicharis7&layout=compact&theme=tokyonight&card_height=180" />
 </p>
+
 
 ---
 
