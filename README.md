@@ -1,4 +1,5 @@
-## 👨🏻‍💻 Sušić Haris
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/4ce15b97-1844-4987-b3ae-31def1b40623" />
+ Sušić Haris
 
 <!--
 **susicharis7/susicharis7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
