@@ -1,9 +1,20 @@
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/4ce15b97-1844-4987-b3ae-31def1b40623" /> Sušić Haris
 
-### Software Engineer | Web & Mobile Developer 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;React+%7C+React+Native+%7C+Java+%7C+MySQL;Always+learning+and+building+projects" />
+</p>
 
-I'm a **3rd-year Software Engineering student** passionate about building modern, fast and clean applications.  
-I love working with **React**, **React Native**, **Java**, and **MySQL**, and I enjoy learning new technologies daily.
+<p align="center">
+  <a href="https://github.com/susicharis7?tab=followers">
+    <img src="https://img.shields.io/badge/Follow%20me%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+### Software Engineering Student | Web & Mobile Developer 🚀
+
+I'm a **3rd-year Software Engineering student** who enjoys building modern, clean and practical applications.  
+I mostly work with **React**, **React Native**, **Java**, and **MySQL**, and I'm always focused on improving my skills through real projects.  
+📌 You can find my main projects **pinned below** on my GitHub profile.
 
 ---
 
@@ -15,57 +26,44 @@ I love working with **React**, **React Native**, **Java**, and **MySQL**, and I 
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages & Tools
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=white)
+### ✅ Languages
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0b1120?style=for-the-badge&logo=tailwindcss)
+### ✅ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react)
 
-### Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-
-### Backend / Database
-![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-2C2C2C?style=for-the-badge&logo=firebase)
-![PHP](https://img.shields.io/badge/PHP-2C2C2C?style=for-the-badge&logo=php)
-
-### Tools
+### ✅ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger)
 
----
-
-## 📌 Featured Projects
-
-### 🚗 Car Rental Web App (PHP + MySQL + SPA)
-A full-featured car rental platform with authentication, role-based access (admin/user), reservations, dashboard CRUD, and REST API communication.
-
-### 📱 Joyride TMS Mobile App (React Native)
-A driver-focused mobile app for managing loads, stops, and trips with a clean UI and modern mobile development practices.
-
-### ✅ StudyFlow (Android + Room + Jetpack Compose)
-Android application for organizing study tasks, subjects, and exams with local database support and modern Compose UI.
+### 🚀 Currently Expanding
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss)
 
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susicharis7&layout=compact&theme=tokyonight" />
 
 ---
 
 ## 🤝 Connect with me
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/haris-su%C5%A1i%C4%87-3253623a8/*
+- 📧 Email: *susicharis99@gmail.com*
 
 ---
-
 ⭐ If you like my work, feel free to follow me!
