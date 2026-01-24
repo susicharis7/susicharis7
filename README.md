@@ -19,7 +19,7 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
 ---
 
 ## 🌍 About Me
-- 📍 Based in Bosnia and Herzegovina  
+- 📍 Based in Sarajevo, Bosnia and Herzegovina  
 - 💻 Focused on **Frontend + Mobile Development**
 - ⚡ Quick learner, highly motivated, always improving
 - 🎯 Goal: Become a top-level developer and build impactful products
