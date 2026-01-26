@@ -41,6 +41,7 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
