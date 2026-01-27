@@ -64,13 +64,5 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
   <img width="49%" src="https://streak-stats.demolab.com?user=susicharis7&theme=tokyonight&hide_border=true" />
 </p>
 
-
-
----
-
-## 🤝 Connect with me
-- 💼 LinkedIn: *https://www.linkedin.com/in/haris-su%C5%A1i%C4%87-3253623a8/*
-- 📧 Email: *susicharis99@gmail.com*
-
 ---
 ⭐ If you like my work, feel free to follow me!
