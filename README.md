@@ -42,11 +42,15 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express)
+
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger)
 
