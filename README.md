@@ -56,8 +56,7 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
 
 ### Currently Expanding
 - Deepening **JavaScript (Frontend Masters - JavaScript Learning Path)**
-- Three.js  
-- Tailwind CSS  
+- Node.js 
 
 ---
 
