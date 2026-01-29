@@ -63,8 +63,8 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=susicharis7&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=susicharis7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=susicharis7&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
