@@ -1,7 +1,7 @@
 ## <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/4ce15b97-1844-4987-b3ae-31def1b40623" /> Sušić Haris
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;React+%7C+React+Native+%7C+Java+%7C+MySQL;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Web+%26+Mobile+Developer;" />
 </p>
 
 <p align="center">
