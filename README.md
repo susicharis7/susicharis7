@@ -67,5 +67,4 @@ I mostly work with **React**, **React Native** and I'm always focused on improvi
   <img width="49%" src="https://streak-stats.demolab.com?user=susicharis7&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
----
-⭐ If you like my work, feel free to follow me!
+
