@@ -10,15 +10,15 @@
   </a>
 </p>
 
-### Software Engineering Student | Web & Mobile Developer 🚀
+### Software Engineering Student | Web & Mobile Developer 
 
 I'm a **3rd-year Software Engineering student** who enjoys building modern, clean and practical applications.  
 I mostly work with **React**, **React Native** and I'm always focused on improving my skills through real projects.  
-📌 You can find my main projects **pinned below** on my GitHub profile.
+You can find my main projects **pinned below** on my GitHub profile.
 
 ---
 
-## 🌍 About Me
+## About Me
 - 📍 Based in Sarajevo, Bosnia and Herzegovina  
 - 💻 Focused on **Frontend + Mobile Development**
 - ⚡ Quick learner, highly motivated, always improving
