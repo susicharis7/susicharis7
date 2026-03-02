@@ -26,7 +26,7 @@ You can find my main projects **pinned below** on my GitHub profile.
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
