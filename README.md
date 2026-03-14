@@ -10,11 +10,13 @@
   </a>
 </p>
 
-### Software Engineering Student • Web & Mobile Developer 
+<h3 align="center">Software Engineering Student • Web & Mobile Developer</h3>
 
-I'm a **3rd-year Software Engineering student** who enjoys building modern, clean and practical applications.  
-I mostly work with **JavaScript**, **React**, **React Native**, **Node.js** and I'm always focused on improving my skills through real projects.  
+<p align="center">
+I'm a <strong>3rd-year Software Engineering student</strong> who enjoys building modern, clean and practical applications.<br>
+I mostly work with <strong>JavaScript, React, React Native, Node.js</strong> and continuously improve through real projects.<br>
 Some of my key projects are pinned below, while others remain private due to deployment or integration constraints.
+</p>
 
 ---
 
