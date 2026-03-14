@@ -10,18 +10,18 @@
   </a>
 </p>
 
-### Software Engineering Student | Web & Mobile Developer 
+### Software Engineering Student • Web & Mobile Developer 
 
 I'm a **3rd-year Software Engineering student** who enjoys building modern, clean and practical applications.  
-I mostly work with **React**, **React Native** and I'm always focused on improving my skills through real projects.  
-You can find my main projects **pinned below** on my GitHub profile.
+I mostly work with **JavaScript**, **React**, **React Native**, **Node.js** and I'm always focused on improving my skills through real projects.  
+Some of my key projects are pinned below, while others remain private due to deployment or integration constraints.
 
 ---
 
 ## About Me
 - 📍 Based in Sarajevo, Bosnia and Herzegovina  
 - 💻 Focused on **Frontend + Mobile Development**
-- ⚡ Quick learner, highly motivated, always improving
+- ⚡ Quick learner, highly motivated
 - 🎯 Goal: Become a top-level developer and build impactful products
 
 ---
@@ -32,8 +32,8 @@ You can find my main projects **pinned below** on my GitHub profile.
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin)
 ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php)
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=c%2B%2B)
@@ -41,7 +41,6 @@ You can find my main projects **pinned below** on my GitHub profile.
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript)
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express)
 
@@ -50,13 +49,11 @@ You can find my main projects **pinned below** on my GitHub profile.
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql)
 ![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-0d1117?style=for-the-badge&logo=swagger)
-
-### Currently Expanding
-- Deepening **JavaScript (Frontend Masters - JavaScript Learning Path)**
-- Node.js 
 
 ---
 
