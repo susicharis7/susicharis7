@@ -20,14 +20,6 @@ Some of my key projects are pinned below, while others remain private due to dep
 
 ---
 
-## About Me
-- 📍 Based in Sarajevo, Bosnia and Herzegovina  
-- 💻 Focused on **Frontend + Mobile Development**
-- ⚡ Quick learner, highly motivated
-- 🎯 Goal: Become a top-level developer and build impactful products
-
----
-
 ## Languages & Tools
 
 ### Languages
