@@ -22,6 +22,10 @@ I also build with <strong>Python, FastAPI, SQLAlchemy, MongoDB and AWS DevOps</s
 Some of my key work is pinned below, while other repositories remain private due to deployment or integration constraints.
 </p>
 
+<div align="center">
+  <img src="./assets/tech-orbit.svg" width="760" alt="Technologies orbiting the HS monogram" />
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28" alt="code animation" /> Languages & Tools
@@ -68,6 +72,18 @@ Some of my key work is pinned below, while other repositories remain private due
 
   <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susicharis7&theme=radical" alt="GitHub contribution details" />
 
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/susicharis7/susicharis7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/susicharis7/susicharis7/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/susicharis7/susicharis7/output/github-contribution-grid-snake-dark.svg" alt="Blue and purple contribution snake animation" />
+  </picture>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF4D6D,50:7C3AED,100:00D4FF&animation=fadeIn" alt="Animated footer" />
