@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00D4FF,50:7C3AED,100:FF4D6D&text=Haris%20Susic&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Web%20%E2%80%A2%20Mobile%20%E2%80%A2%20Backend&descAlign=50&descAlignY=58" alt="Haris Susic animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:00D4FF,50:7C3AED,100:FF4D6D&text=Haris%20Sušić&fontAlign=50&fontAlignY=30&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=From%20Interface%20to%20Infrastructure&descAlign=50&descAlignY=50" alt="Haris Susic animated header" />
 
   <br />
 
