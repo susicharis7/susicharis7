@@ -15,14 +15,11 @@
 <h2 align="center">Junior Software Engineer</h2>
 
 <p align="center">
-  <a href="https://symphony.is">
-    <img src="https://symphony.is/favicon.png" width="52" alt="Symphony logo" />
-  </a>
-  <br />
-  <strong>Working at <a href="https://symphony.is">Symphony</a></strong>
+  <strong>Junior Software Engineer @ <a href="https://symphony.is">symphony.is</a></strong> <br>
+  <strong>Bachelor of IT, International Burch University</strong>
 </p>
 
-<p align="center"><strong>Bachelor of IT, International Burch University</strong></p>
+
 
 <p align="center">
 I mostly work with <strong>JavaScript, React, React Native and Node.js</strong>.<br>
