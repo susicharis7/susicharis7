@@ -14,8 +14,15 @@
 
 <h2 align="center">Junior Software Engineer</h2>
 
+<p align="center">
+  <a href="https://symphony.is">
+    <img src="https://symphony.is/favicon.png" width="52" alt="Symphony logo" />
+  </a>
+  <br />
+  <strong>Working at <a href="https://symphony.is">Symphony</a></strong>
+</p>
+
 <p align="center"><strong>Bachelor of IT, International Burch University</strong></p>
-<p align="center">Junior Software Engineer @ symphony.is</p>
 
 <p align="center">
 I mostly work with <strong>JavaScript, React, React Native and Node.js</strong>.<br>
@@ -43,6 +50,7 @@ Some of my key work is pinned below, while other repositories remain private due
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,supabase,mysql,postgres,mongodb,aws,postman" alt="Tools and platforms" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
 </p>
 
 ### Additional Technologies
