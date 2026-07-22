@@ -15,6 +15,7 @@
 <h2 align="center">Junior Software Engineer</h2>
 
 <p align="center"><strong>Bachelor of IT, International Burch University</strong></p>
+<p align="center">Junior Software Engineer @ symphony.is</p>
 
 <p align="center">
 I mostly work with <strong>JavaScript, React, React Native and Node.js</strong>.<br>
