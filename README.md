@@ -15,7 +15,7 @@
 <h2 align="center">Junior Software Engineer</h2>
 
 <p align="center">
-  <strong>Junior Software Engineer @ <a href="https://symphony.is">symphony.is</a></strong> <br>
+  <strong>SWE @ <a href="https://symphony.is">symphony.is</a></strong> <br>
   <strong>Bachelor of IT, International Burch University</strong>
 </p>
 
