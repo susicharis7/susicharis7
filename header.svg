@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="190" viewBox="0 0 854 190" role="img" aria-labelledby="title description">
+  <title id="title">Haris Sušić</title>
+  <desc id="description">Animated blue and amber waves, with a code symbol and a workflow symbol beside the name.</desc>
+  <style>
+    .name { font: 700 42px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
+    .identity { animation: appear 1.2s ease-in-out; }
+    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .identity { animation: none; } }
+  </style>
+  <defs>
+    <linearGradient id="current" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1040" y2="62" spreadMethod="repeat">
+      <stop offset="0" stop-color="#103366"/>
+      <stop offset="0.14" stop-color="#164DA3"/>
+      <stop offset="0.33" stop-color="#237AEB"/>
+      <stop offset="0.48" stop-color="#266BCC"/>
+      <stop offset="0.56" stop-color="#A35D43"/>
+      <stop offset="0.65" stop-color="#F19748"/>
+      <stop offset="0.7" stop-color="#FFB45D"/>
+      <stop offset="0.75" stop-color="#D46A36"/>
+      <stop offset="0.84" stop-color="#493F5E"/>
+      <stop offset="1" stop-color="#103366"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;-1040 -62" dur="9s" begin="-1.8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="readability" x2="0" y2="100%">
+      <stop stop-color="#071A38" stop-opacity="0"/>
+      <stop offset=".53" stop-color="#071A38" stop-opacity=".43"/>
+      <stop offset="1" stop-color="#071A38" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path d="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z" fill="url(#current)" opacity=".87">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z;M0 0L 0 135Q 213.5 150 427 130T 854 120L 854 0 Z;M0 0L 0 155Q 213.5 125 427 155T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z"/>
+    </path>
+    <path d="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z" fill="url(#current)" opacity=".54">
+      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 110 427 110T 854 130L 854 0 Z;M0 0L 0 135Q 213.5 115 427 140T 854 155L 854 0 Z;M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z"/>
+    </path>
+  </g>
+  <rect width="854" height="108" fill="url(#readability)" pointer-events="none"/>
+  <g class="identity">
+    <g fill="none" stroke-width="1" opacity=".55" aria-hidden="true">
+      <path d="M181 57h64m364 0h64" stroke="#A0CFFF" stroke-dasharray="2 6"/>
+      <circle cx="181" cy="57" r="2" stroke="#FFD199"/>
+      <circle cx="673" cy="57" r="2" stroke="#FFD199"/>
+    </g>
+    <g transform="translate(253 39)" aria-hidden="true">
+      <rect width="36" height="36" rx="9" fill="#0A1E3D" fill-opacity=".65" stroke="#8DC7FF" stroke-opacity=".65"/>
+      <path d="M13 12l-6 6 6 6m10-12 6 6-6 6m-3-14-4 16" fill="none" stroke="#B7DAFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <text x="427" y="57" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" class="name">Haris Sušić</text>
+    <g transform="translate(565 39)" aria-hidden="true">
+      <rect width="36" height="36" rx="9" fill="#0A1E3D" fill-opacity=".65" stroke="#FFB862" stroke-opacity=".78"/>
+      <path d="M11 18h6q3 0 3-4v-2h5m-5 6v4q0 2 3 2h2" fill="none" stroke="#FFD199" stroke-width="1.6" stroke-linecap="round"/>
+      <circle cx="10" cy="18" r="2.3" fill="#FFD199"/>
+      <circle cx="26" cy="12" r="2.3" fill="#FFD199"/>
+      <circle cx="26" cy="24" r="2.3" fill="#FFD199"/>
+    </g>
+  </g>
+</svg>
