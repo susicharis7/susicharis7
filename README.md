@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" width="854" alt="Haris Sušić animated header" />
+  <img src="header.svg" width="854" alt="Haris Sušić animated header" />
   <br />
   <a href="https://github.com/susicharis7?tab=followers">
     <img src="https://img.shields.io/badge/Follow%20on%20GitHub-1559D5?style=for-the-badge&amp;logo=github&amp;logoColor=FFAA55" alt="Follow on GitHub" />
@@ -99,4 +99,4 @@
 
 <br />
 
-<img src="./assets/footer.svg" width="854" alt="" />
+<img src="footer.svg" width="854" alt="" />
