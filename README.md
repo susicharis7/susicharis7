@@ -17,12 +17,13 @@
 <br />
 
 <h2 align="center">
-  Junior Software Engineer @ <a href="https://symphony.is/"><img src="symphony.svg" height="30" align="center" alt="Symphony logo" /></a> <a href="https://symphony.is/">Symphony</a>
+  Junior Software Engineer @
+  <a href="https://symphony.is/"><picture><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/susicharis7/susicharis7/main/symphony-light.svg" /><img src="https://raw.githubusercontent.com/susicharis7/susicharis7/main/symphony-dark.svg" height="37" align="center" alt="Symphony" /></picture></a>
 </h2>
 
 <p align="center">
   <strong>BSc in Information Technology</strong> &nbsp;·&nbsp; <strong>MSc in Software Engineering</strong> <em>(in progress)</em><br />
-  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" height="20" align="center" alt="IBU logo" /></a> <sub>International Burch University · Sarajevo</sub>
+  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" height="22" align="center" alt="IBU logo" /></a>&nbsp; International Burch University · Sarajevo
 </p>
 
 <br />
@@ -33,20 +34,12 @@
 </p>
 
 <p align="center">
-  I ship full stack products end to end, from the first schema to production.<br />
-  <strong>React + TypeScript</strong> interfaces backed by <strong>Node.js / Express</strong> and <strong>Python / FastAPI</strong> APIs,<br />
-  data in <strong>PostgreSQL, Supabase and MongoDB</strong> (with <strong>SQLAlchemy</strong>),<br />
-  containerized with <strong>Docker</strong> and running on <strong>Kubernetes clusters</strong> on <strong>AWS</strong>.
+  Full stack, end to end: <strong>React + TypeScript</strong>, <strong>Node.js</strong> and <strong>FastAPI</strong> APIs,<br />
+  <strong>PostgreSQL, Supabase and MongoDB</strong>, shipped with <strong>Docker</strong> on <strong>Kubernetes clusters</strong> in <strong>AWS</strong>.
 </p>
 
 <p align="center">
-  Lately: <strong>LLM-powered features</strong> and <strong>automation pipelines</strong>, like AI-assisted scoring engines,<br />
-  hardened auth with 2FA and OAuth, and realtime booking platforms across web and mobile.
-</p>
-
-<p align="center">
-  Selected projects are pinned below.<br />
-  Some repositories are private due to deployment or integration constraints.
+  <sub>Selected projects are pinned below. Some repositories are private.</sub>
 </p>
 
 <br />
