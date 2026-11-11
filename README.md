@@ -22,9 +22,12 @@
 </h2>
 
 <p align="center">
-  <strong>International Burch University</strong><br />
-  Bachelor of IT<br />
-  Master's in Software Engineering · In progress
+  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" width="52" height="52" alt="International Burch University" /></a>
+</p>
+
+<p align="center">
+  <strong>BSc in Information Technology</strong> &nbsp;·&nbsp; <strong>MSc in Software Engineering</strong> <em>(in progress)</em><br />
+  <sub>International Burch University · Sarajevo</sub>
 </p>
 
 <br />
@@ -35,9 +38,10 @@
 </p>
 
 <p align="center">
-  I ship full-stack products end to end, from the first schema to production.<br />
+  I ship full stack products end to end, from the first schema to production.<br />
   <strong>React + TypeScript</strong> interfaces backed by <strong>Node.js / Express</strong> and <strong>Python / FastAPI</strong> APIs,<br />
-  data in <strong>PostgreSQL, Supabase and MongoDB</strong> (with <strong>SQLAlchemy</strong>), deployed on <strong>AWS</strong> with <strong>Docker</strong>.
+  data in <strong>PostgreSQL, Supabase and MongoDB</strong> (with <strong>SQLAlchemy</strong>),<br />
+  containerized with <strong>Docker</strong> and running on <strong>Kubernetes clusters</strong> on <strong>AWS</strong>.
 </p>
 
 <p align="center">
