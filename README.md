@@ -31,12 +31,18 @@
 
 <p align="center">
   <strong>AI Engineering &amp; Automation</strong><br />
-  I build tools and workflows that reduce manual work.
+  I turn hours of repetitive work into tools that run themselves.
 </p>
 
 <p align="center">
-  I build with <strong>JavaScript, React, Node.js, Python and FastAPI</strong>.<br />
-  I also work with <strong>SQLAlchemy, MongoDB and AWS</strong>.
+  I ship full-stack products end to end, from the first schema to production.<br />
+  <strong>React + TypeScript</strong> interfaces backed by <strong>Node.js / Express</strong> and <strong>Python / FastAPI</strong> APIs,<br />
+  data in <strong>PostgreSQL, Supabase and MongoDB</strong> (with <strong>SQLAlchemy</strong>), deployed on <strong>AWS</strong> with <strong>Docker</strong>.
+</p>
+
+<p align="center">
+  Lately: <strong>LLM-powered features</strong> and <strong>automation pipelines</strong>, like AI-assisted scoring engines,<br />
+  hardened auth with 2FA and OAuth, and realtime booking platforms across web and mobile.
 </p>
 
 <p align="center">
@@ -176,14 +182,8 @@
   <br />
   <br />
 
-  <img
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
-    alt="GitHub statistics"
-  />
-
-  <img
-    width="48%"
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none" alt="GitHub statistics" /><img
+    width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
     alt="Top programming languages"
   />

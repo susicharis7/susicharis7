@@ -1,27 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="854" height="110" viewBox="0 0 854 110" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="130" viewBox="0 0 854 130" role="img" aria-labelledby="title description">
   <title id="title">Animated profile footer</title>
-  <desc id="description">Blue waves with a traveling amber highlight.</desc>
+  <desc id="description">A flowing aurora where deep blue and amber blend into each other.</desc>
+  <style>
+    .sign { font: 600 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; letter-spacing: 3px; }
+  </style>
   <defs>
-    <linearGradient id="current" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1040" y2="62" spreadMethod="repeat">
-      <stop offset="0" stop-color="#103366"/>
-      <stop offset="0.14" stop-color="#164DA3"/>
-      <stop offset="0.33" stop-color="#237AEB"/>
-      <stop offset="0.48" stop-color="#266BCC"/>
-      <stop offset="0.56" stop-color="#A35D43"/>
-      <stop offset="0.65" stop-color="#F19748"/>
-      <stop offset="0.7" stop-color="#FFB45D"/>
-      <stop offset="0.75" stop-color="#D46A36"/>
-      <stop offset="0.84" stop-color="#493F5E"/>
-      <stop offset="1" stop-color="#103366"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;-1040 -62" dur="9s" begin="-4s" repeatCount="indefinite"/>
-    </linearGradient>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".9" fill="#FFFFFF" fill-opacity=".07"/>
+    </pattern>
+    <clipPath id="shape">
+      <path d="M0 130H854V40C720 12 580 58 427 34C274 10 140 52 0 26Z">
+        <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"
+          values="M0 130H854V40C720 12 580 58 427 34C274 10 140 52 0 26Z;M0 130H854V24C710 52 590 12 427 38C264 64 150 16 0 42Z;M0 130H854V40C720 12 580 58 427 34C274 10 140 52 0 26Z"/>
+      </path>
+    </clipPath>
   </defs>
-  <g transform="translate(854 110) rotate(180)">
-    <path d="M0 0L 0 30Q 213.5 70 427 40T 854 65L 854 0 Z" fill="url(#current)" opacity=".87">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 30Q 213.5 70 427 40T 854 65L 854 0 Z;M0 0L 0 55Q 213.5 70 427 50T 854 40L 854 0 Z;M0 0L 0 75Q 213.5 45 427 75T 854 40L 854 0 Z;M0 0L 0 30Q 213.5 70 427 40T 854 65L 854 0 Z"/>
-    </path>
-    <path d="M0 0L 0 45Q 213.5 90 427 60T 854 70L 854 0 Z" fill="url(#current)" opacity=".54">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 45Q 213.5 90 427 60T 854 70L 854 0 Z;M0 0L 0 60Q 213.5 30 427 30T 854 50L 854 0 Z;M0 0L 0 55Q 213.5 35 427 60T 854 75L 854 0 Z;M0 0L 0 45Q 213.5 90 427 60T 854 70L 854 0 Z"/>
-    </path>
+
+  <g clip-path="url(#shape)">
+    <rect width="854" height="130" fill="#071A33"/>
+    <g filter="url(#blur)">
+      <circle cx="740" cy="90" r="130" fill="#1E5FD0" opacity=".95">
+        <animateTransform attributeName="transform" type="translate" dur="19s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-90 -20;0 0"/>
+      </circle>
+      <circle cx="430" cy="120" r="120" fill="#7A4FB0" opacity=".55">
+        <animateTransform attributeName="transform" type="translate" dur="17s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;120 -20;0 0"/>
+      </circle>
+      <circle cx="110" cy="80" r="130" fill="#FF7900" opacity=".85">
+        <animateTransform attributeName="transform" type="translate" dur="21s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;110 -15;0 0"/>
+      </circle>
+      <circle cx="560" cy="40" r="110" fill="#2F86F5" opacity=".6">
+        <animateTransform attributeName="transform" type="translate" dur="23s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-150 25;0 0"/>
+      </circle>
+      <circle cx="260" cy="20" r="90" fill="#FFB45D" opacity=".45">
+        <animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;80 30;0 0"/>
+      </circle>
+    </g>
+    <rect width="854" height="130" fill="url(#dots)"/>
   </g>
+
+  <text x="427" y="96" text-anchor="middle" fill="#E4F0FF" fill-opacity=".75" class="sign">THANKS FOR STOPPING BY</text>
 </svg>

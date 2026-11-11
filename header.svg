@@ -1,58 +1,160 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="854" height="190" viewBox="0 0 854 190" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="230" viewBox="0 0 854 230" role="img" aria-labelledby="title description">
   <title id="title">Haris Sušić</title>
-  <desc id="description">Animated blue and amber waves, with a code symbol and a workflow symbol beside the name.</desc>
+  <desc id="description">A flowing aurora where deep blue and amber blend into each other, with glass icons for code, AI, data, cloud and automation floating around the name.</desc>
   <style>
-    .name { font: 700 42px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
-    .identity { animation: appear 1.2s ease-in-out; }
-    @keyframes appear { from { opacity: 0; } to { opacity: 1; } }
-    @media (prefers-reduced-motion: reduce) { .identity { animation: none; } }
+    .name { font: 800 46px -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif; letter-spacing: -1px; }
+    .role { font: 600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; letter-spacing: 3.2px; }
   </style>
   <defs>
-    <linearGradient id="current" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1040" y2="62" spreadMethod="repeat">
-      <stop offset="0" stop-color="#103366"/>
-      <stop offset="0.14" stop-color="#164DA3"/>
-      <stop offset="0.33" stop-color="#237AEB"/>
-      <stop offset="0.48" stop-color="#266BCC"/>
-      <stop offset="0.56" stop-color="#A35D43"/>
-      <stop offset="0.65" stop-color="#F19748"/>
-      <stop offset="0.7" stop-color="#FFB45D"/>
-      <stop offset="0.75" stop-color="#D46A36"/>
-      <stop offset="0.84" stop-color="#493F5E"/>
-      <stop offset="1" stop-color="#103366"/>
-      <animateTransform attributeName="gradientTransform" type="translate" values="0 0;-1040 -62" dur="9s" begin="-1.8s" repeatCount="indefinite"/>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="46"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E4F0FF"/>
+      <stop offset=".5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFE3C4"/>
     </linearGradient>
-    <linearGradient id="readability" x2="0" y2="100%">
-      <stop stop-color="#071A38" stop-opacity="0"/>
-      <stop offset=".53" stop-color="#071A38" stop-opacity=".43"/>
-      <stop offset="1" stop-color="#071A38" stop-opacity="0"/>
+    <linearGradient id="glassStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".06"/>
     </linearGradient>
+    <linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity=".03"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8DC7FF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFD199" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#8DC7FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r=".9" fill="#FFFFFF" fill-opacity=".07"/>
+    </pattern>
+    <radialGradient id="vignette" cx=".5" cy=".42" r=".62">
+      <stop offset=".45" stop-color="#050F22" stop-opacity="0"/>
+      <stop offset="1" stop-color="#050F22" stop-opacity=".55"/>
+    </radialGradient>
+    <clipPath id="shape">
+      <path d="M0 0H854V184C720 214 580 168 427 192C274 216 140 172 0 198Z">
+        <animate attributeName="d" dur="18s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1"
+          values="M0 0H854V184C720 214 580 168 427 192C274 216 140 172 0 198Z;M0 0H854V200C710 172 590 214 427 188C264 162 150 210 0 184Z;M0 0H854V184C720 214 580 168 427 192C274 216 140 172 0 198Z"/>
+      </path>
+    </clipPath>
+
+    <!-- icon glyphs, drawn on a 24x24 grid -->
+    <g id="i-code" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 7l-5 5 5 5M16 7l5 5-5 5M13.5 4.5l-3 15"/></g>
+    <g id="i-spark" fill="none" stroke-width="1.7" stroke-linejoin="round"><path d="M12 3c.8 4.6 2.4 6.2 7 7-4.6.8-6.2 2.4-7 7-.8-4.6-2.4-6.2-7-7 4.6-.8 6.2-2.4 7-7z"/><path d="M19 15.5c.3 1.6.9 2.2 2.5 2.5-1.6.3-2.2.9-2.5 2.5-.3-1.6-.9-2.2-2.5-2.5 1.6-.3 2.2-.9 2.5-2.5z"/></g>
+    <g id="i-term" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4.5" width="18" height="15" rx="3"/><path d="M7 10l3 2.5L7 15M12.5 15H17"/></g>
+    <g id="i-db" fill="none" stroke-width="1.7"><ellipse cx="12" cy="6" rx="7" ry="2.8"/><path d="M5 6v12c0 1.5 3.1 2.8 7 2.8s7-1.3 7-2.8V6M5 12c0 1.5 3.1 2.8 7 2.8s7-1.3 7-2.8"/></g>
+    <g id="i-cloud" fill="none" stroke-width="1.8" stroke-linejoin="round"><path d="M7.5 18.5h9.5a4 4 0 0 0 .6-7.95A5.5 5.5 0 0 0 7 9.6 4.5 4.5 0 0 0 7.5 18.5z"/></g>
+    <g id="i-branch" fill="none" stroke-width="1.8" stroke-linecap="round"><circle cx="6.5" cy="5.5" r="2.2"/><circle cx="6.5" cy="18.5" r="2.2"/><circle cx="17.5" cy="8.5" r="2.2"/><path d="M6.5 7.7v8.6M17.5 10.7c0 4-11 2.5-11 5.6"/></g>
+    <g id="i-flow" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="9" width="6" height="6" rx="1.6"/><rect x="15.5" y="3" width="6" height="6" rx="1.6"/><rect x="15.5" y="15" width="6" height="6" rx="1.6"/><path d="M8.5 12h3.5V6h3.5M12 12v6h3.5"/></g>
+    <g id="i-chip" fill="none" stroke-width="1.7" stroke-linecap="round"><rect x="6" y="6" width="12" height="12" rx="2.4"/><rect x="9.5" y="9.5" width="5" height="5" rx="1"/><path d="M9.5 3v3M14.5 3v3M9.5 18v3M14.5 18v3M3 9.5h3M3 14.5h3M18 9.5h3M18 14.5h3"/></g>
+    <g id="i-api" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 4c-2 0-3 1-3 3v2c0 1.5-.8 2.5-2 3 1.2.5 2 1.5 2 3v2c0 2 1 3 3 3M16 4c2 0 3 1 3 3v2c0 1.5.8 2.5 2 3-1.2.5-2 1.5-2 3v2c0 2-1 3-3 3"/><circle cx="12" cy="12" r="1.2"/></g>
   </defs>
-  <g>
-    <path d="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z" fill="url(#current)" opacity=".87">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="0s" values="M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z;M0 0L 0 135Q 213.5 150 427 130T 854 120L 854 0 Z;M0 0L 0 155Q 213.5 125 427 155T 854 120L 854 0 Z;M0 0L 0 110Q 213.5 150 427 120T 854 145L 854 0 Z"/>
-    </path>
-    <path d="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z" fill="url(#current)" opacity=".54">
-      <animate attributeName="d" dur="20s" repeatCount="indefinite" keyTimes="0;0.333;0.667;1" calcMode="spline" keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1" begin="-10s" values="M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 110 427 110T 854 130L 854 0 Z;M0 0L 0 135Q 213.5 115 427 140T 854 155L 854 0 Z;M0 0L 0 125Q 213.5 170 427 140T 854 150L 854 0 Z"/>
-    </path>
+
+  <!-- aurora: colours blend instead of sitting in separate bands -->
+  <g clip-path="url(#shape)">
+    <rect width="854" height="230" fill="#071A33"/>
+    <g filter="url(#blur)">
+      <circle cx="120" cy="70" r="150" fill="#1E5FD0" opacity=".95">
+        <animateTransform attributeName="transform" type="translate" dur="19s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;90 30;0 0"/>
+      </circle>
+      <circle cx="420" cy="40" r="140" fill="#2F86F5" opacity=".7">
+        <animateTransform attributeName="transform" type="translate" dur="23s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-110 40;0 0"/>
+      </circle>
+      <circle cx="560" cy="150" r="130" fill="#7A4FB0" opacity=".55">
+        <animateTransform attributeName="transform" type="translate" dur="17s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-140 -30;0 0"/>
+      </circle>
+      <circle cx="740" cy="80" r="150" fill="#FF7900" opacity=".85">
+        <animateTransform attributeName="transform" type="translate" dur="21s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-120 35;0 0"/>
+      </circle>
+      <circle cx="300" cy="190" r="110" fill="#F19748" opacity=".5">
+        <animateTransform attributeName="transform" type="translate" dur="25s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;160 -50;0 0"/>
+      </circle>
+      <circle cx="840" cy="200" r="100" fill="#FFB45D" opacity=".55">
+        <animateTransform attributeName="transform" type="translate" dur="15s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-60 -60;0 0"/>
+      </circle>
+    </g>
+    <rect width="854" height="230" fill="url(#dots)"/>
+    <rect width="854" height="230" fill="url(#vignette)"/>
   </g>
-  <rect width="854" height="108" fill="url(#readability)" pointer-events="none"/>
+
+  <!-- floating glass icons: size and opacity vary for depth -->
+  <g aria-hidden="true">
+    <g transform="translate(58 34)" opacity=".95">
+      <g><animateTransform attributeName="transform" type="translate" dur="6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;0 -9;0 0"/>
+        <rect width="46" height="46" rx="13" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-code" transform="translate(11 11)" stroke="#CFE5FF"/>
+      </g>
+    </g>
+    <g transform="translate(152 104)" opacity=".8">
+      <g><animateTransform attributeName="transform" type="translate" dur="7.5s" begin="-2s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;4 -8;0 0"/>
+        <rect width="38" height="38" rx="11" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-db" transform="translate(7 7)" stroke="#B7DAFF"/>
+      </g>
+    </g>
+    <g transform="translate(36 128)" opacity=".6">
+      <g><animateTransform attributeName="transform" type="translate" dur="8s" begin="-4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;0 -7;0 0"/>
+        <rect width="32" height="32" rx="9" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-branch" transform="translate(5.5 5.5) scale(.875)" stroke="#B7DAFF"/>
+      </g>
+    </g>
+    <g transform="translate(206 26)" opacity=".7">
+      <g><animateTransform attributeName="transform" type="translate" dur="6.8s" begin="-1s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-3 -7;0 0"/>
+        <rect width="36" height="36" rx="10" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-term" transform="translate(6 6)" stroke="#E4F0FF"/>
+      </g>
+    </g>
+
+    <g transform="translate(750 30)" opacity=".95">
+      <g><animateTransform attributeName="transform" type="translate" dur="6.4s" begin="-3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;0 -9;0 0"/>
+        <rect width="46" height="46" rx="13" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <g filter="url(#glow)"><use href="#i-spark" transform="translate(11 11)" stroke="#FFE3C4"/></g>
+      </g>
+    </g>
+    <g transform="translate(664 102)" opacity=".85">
+      <g><animateTransform attributeName="transform" type="translate" dur="7.2s" begin="-5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;-4 -8;0 0"/>
+        <rect width="40" height="40" rx="11" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-flow" transform="translate(8 8)" stroke="#FFD199"/>
+      </g>
+    </g>
+    <g transform="translate(784 124)" opacity=".6">
+      <g><animateTransform attributeName="transform" type="translate" dur="8.4s" begin="-2.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;0 -7;0 0"/>
+        <rect width="32" height="32" rx="9" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-cloud" transform="translate(5.5 5.5) scale(.875)" stroke="#FFE3C4"/>
+      </g>
+    </g>
+    <g transform="translate(616 24)" opacity=".7">
+      <g><animateTransform attributeName="transform" type="translate" dur="7s" begin="-3.5s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;3 -7;0 0"/>
+        <rect width="36" height="36" rx="10" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-chip" transform="translate(6 6)" stroke="#FFD199"/>
+      </g>
+    </g>
+    <g transform="translate(520 18)" opacity=".5">
+      <g><animateTransform attributeName="transform" type="translate" dur="9s" begin="-6s" repeatCount="indefinite" calcMode="spline" keyTimes="0;.5;1" keySplines=".45 0 .55 1;.45 0 .55 1" values="0 0;0 -6;0 0"/>
+        <rect width="28" height="28" rx="8" fill="url(#glassFill)" stroke="url(#glassStroke)"/>
+        <use href="#i-api" transform="translate(4 4) scale(.833)" stroke="#E4F0FF"/>
+      </g>
+    </g>
+
+    <!-- drifting particles -->
+    <g fill="#FFFFFF">
+      <circle cx="270" cy="150" r="1.6"><animate attributeName="opacity" values="0;.9;0" dur="4s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -26" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="110" cy="182" r="1.2"><animate attributeName="opacity" values="0;.8;0" dur="5s" begin="-2s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -30" dur="5s" begin="-2s" repeatCount="indefinite"/></circle>
+      <circle cx="600" cy="80" r="1.4" fill="#FFD199"><animate attributeName="opacity" values="0;.9;0" dur="4.6s" begin="-1s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -24" dur="4.6s" begin="-1s" repeatCount="indefinite"/></circle>
+      <circle cx="720" cy="170" r="1.2" fill="#FFD199"><animate attributeName="opacity" values="0;.8;0" dur="5.4s" begin="-3s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -28" dur="5.4s" begin="-3s" repeatCount="indefinite"/></circle>
+      <circle cx="830" cy="20" r="1"><animate attributeName="opacity" values="0;.7;0" dur="3.8s" begin="-1.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="0 0;0 -18" dur="3.8s" begin="-1.5s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
   <g class="identity">
-    <g fill="none" stroke-width="1" opacity=".55" aria-hidden="true">
-      <path d="M181 57h64m364 0h64" stroke="#A0CFFF" stroke-dasharray="2 6"/>
-      <circle cx="181" cy="57" r="2" stroke="#FFD199"/>
-      <circle cx="673" cy="57" r="2" stroke="#FFD199"/>
-    </g>
-    <g transform="translate(253 39)" aria-hidden="true">
-      <rect width="36" height="36" rx="9" fill="#0A1E3D" fill-opacity=".65" stroke="#8DC7FF" stroke-opacity=".65"/>
-      <path d="M13 12l-6 6 6 6m10-12 6 6-6 6m-3-14-4 16" fill="none" stroke="#B7DAFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-    </g>
-    <text x="427" y="57" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" class="name">Haris Sušić</text>
-    <g transform="translate(565 39)" aria-hidden="true">
-      <rect width="36" height="36" rx="9" fill="#0A1E3D" fill-opacity=".65" stroke="#FFB862" stroke-opacity=".78"/>
-      <path d="M11 18h6q3 0 3-4v-2h5m-5 6v4q0 2 3 2h2" fill="none" stroke="#FFD199" stroke-width="1.6" stroke-linecap="round"/>
-      <circle cx="10" cy="18" r="2.3" fill="#FFD199"/>
-      <circle cx="26" cy="12" r="2.3" fill="#FFD199"/>
-      <circle cx="26" cy="24" r="2.3" fill="#FFD199"/>
-    </g>
+    <text x="427" y="92" text-anchor="middle" fill="url(#nameFill)" class="name">Haris Sušić</text>
+    <rect x="327" y="110" width="200" height="1.2" fill="url(#rule)"/>
+    <text x="427" y="136" text-anchor="middle" fill="#E4F0FF" fill-opacity=".85" class="role">AI ENGINEERING · AUTOMATION · FULL-STACK</text>
   </g>
 </svg>
