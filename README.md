@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="header.svg" width="100%" alt="Haris Sušić animated header" />
+  <img src="header.svg?v=3" width="100%" alt="Haris Sušić animated header" />
 
   <br />
 
@@ -17,17 +17,12 @@
 <br />
 
 <h2 align="center">
-  Junior Software Engineer @
-  <a href="https://symphony.is/">symphony.is</a>
+  Junior Software Engineer @ <a href="https://symphony.is/"><img src="symphony.svg" height="30" align="center" alt="Symphony logo" /></a> <a href="https://symphony.is/">Symphony</a>
 </h2>
 
 <p align="center">
-  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" width="52" height="52" alt="International Burch University" /></a>
-</p>
-
-<p align="center">
   <strong>BSc in Information Technology</strong> &nbsp;·&nbsp; <strong>MSc in Software Engineering</strong> <em>(in progress)</em><br />
-  <sub>International Burch University · Sarajevo</sub>
+  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" height="20" align="center" alt="IBU logo" /></a> <sub>International Burch University · Sarajevo</sub>
 </p>
 
 <br />
@@ -197,5 +192,5 @@
 <br />
 
 <div align="center">
-  <img src="footer.svg" width="100%" alt="Animated footer" />
+  <img src="footer.svg?v=3" width="100%" alt="Animated footer" />
 </div>
