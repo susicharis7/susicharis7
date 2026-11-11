@@ -22,7 +22,7 @@
 
 <p align="center">
   <strong>BSc in Information Technology</strong> &nbsp;·&nbsp; <strong>MSc in Software Engineering</strong> <em>(in progress)</em><br />
-  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg?v=2" height="22" align="center" alt="IBU logo" /></a>&nbsp; International Burch University · Sarajevo
+  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg?v=2" height="22" align="middle" alt="IBU logo" /></a>&nbsp;&nbsp;&nbsp; International Burch University · Sarajevo
 </p>
 
 <br />
