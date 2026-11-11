@@ -1,20 +1,33 @@
+
 <div align="center">
-  <img src="header.svg" width="854" alt="Haris Sušić animated header" />
+
+  <img src="header.svg" width="100%" alt="Haris Sušić animated header" />
+
   <br />
+
   <a href="https://github.com/susicharis7?tab=followers">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-1559D5?style=for-the-badge&amp;logo=github&amp;logoColor=FFAA55" alt="Follow on GitHub" />
+    <img
+      src="https://img.shields.io/badge/Follow_on_GitHub-071A33?style=for-the-badge&logo=github&logoColor=FF7900"
+      alt="Follow on GitHub"
+    />
   </a>
+
 </div>
 
 <br />
 
-<h2 align="center">Junior Software Engineer @ <a href="https://symphony.is/">symphony.is</a></h2>
+<h2 align="center">
+  Junior Software Engineer @
+  <a href="https://symphony.is/">symphony.is</a>
+</h2>
 
 <p align="center">
   <strong>International Burch University</strong><br />
   Bachelor of IT<br />
-  Master’s in Software Engineering · In progress
+  Master's in Software Engineering · In progress
 </p>
+
+<br />
 
 <p align="center">
   <strong>AI Engineering &amp; Automation</strong><br />
@@ -27,48 +40,82 @@
 </p>
 
 <p align="center">
-  Selected projects are pinned below. Some repositories are private due to deployment or integration constraints.
+  Selected projects are pinned below.<br />
+  Some repositories are private due to deployment or integration constraints.
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=4&amp;color=0:0B2144,55:288AFF,100:FF9A3C" width="100%" alt="" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071A33,65:12345B,100:FF7900"
+    width="100%"
+    alt=""
+  />
 </p>
 
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28" alt="" /> Languages & Tools
+<br />
+
+<h2>Languages &amp; Tools</h2>
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,cpp" alt="HTML, CSS, JavaScript, TypeScript, Python, Java, PHP and C++" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,php,cpp&theme=dark"
+    alt="Programming languages"
+  />
 </p>
 
 <br />
 
-### Frameworks & Libraries
+### Frameworks &amp; Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" alt="React, Node.js, Express and FastAPI" />
+  <img
+    src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi&theme=dark"
+    alt="Frameworks and libraries"
+  />
 </p>
 
 <br />
 
-### Tools & Platforms
+### Tools &amp; Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,supabase,mysql,postgres,mongodb,postman" alt="Git, GitHub, Firebase, Supabase, MySQL, PostgreSQL, MongoDB and Postman" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,firebase,supabase,mysql,postgres,mongodb,postman&theme=dark"
+    alt="Tools and platforms"
+  />
 </p>
 
 <br />
 
-### Cloud & DevOps
+### Cloud &amp; DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" alt="AWS, Docker and Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/digitalocean/digitalocean-original.svg" width="48" height="48" alt="DigitalOcean" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bitbucket/bitbucket-original.svg" width="48" height="48" alt="Bitbucket" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/headlamp/icon/color/headlamp-icon-color.svg" width="42" height="48" alt="Headlamp" />
+  <img
+    src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark"
+    alt="AWS, Docker and Kubernetes"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/digitalocean/digitalocean-original.svg"
+    width="48"
+    height="48"
+    alt="DigitalOcean"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/bitbucket/bitbucket-original.svg"
+    width="48"
+    height="48"
+    alt="Bitbucket"
+  />
+  <img
+    src="https://raw.githubusercontent.com/cncf/artwork/main/projects/headlamp/icon/color/headlamp-icon-color.svg"
+    width="42"
+    height="48"
+    alt="Headlamp"
+  />
 </p>
 
 <br />
@@ -76,27 +123,75 @@
 ### Additional Technologies
 
 <p>
-  <img src="https://cdn.simpleicons.org/sqlite/57AFFF" width="42" height="42" alt="SQL" />
-  <img src="https://cdn.simpleicons.org/sqlalchemy/FF9E46" width="42" height="42" alt="SQLAlchemy" />
-  <img src="https://cdn.simpleicons.org/mongodb/43B76E" width="42" height="42" alt="MongoDB Compass" />
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="42" height="42" alt="Swagger" />
+  <img
+    src="https://cdn.simpleicons.org/sqlite/FF7900"
+    width="42"
+    height="42"
+    alt="SQLite"
+  />
+  <img
+    src="https://cdn.simpleicons.org/sqlalchemy/FF7900"
+    width="42"
+    height="42"
+    alt="SQLAlchemy"
+  />
+  <img
+    src="https://cdn.simpleicons.org/mongodb/FF7900"
+    width="42"
+    height="42"
+    alt="MongoDB Compass"
+  />
+  <img
+    src="https://cdn.simpleicons.org/swagger/FF7900"
+    width="42"
+    height="42"
+    alt="Swagger"
+  />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;height=4&amp;color=0:0B2144,55:288AFF,100:FF9A3C" width="100%" alt="" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:071A33,65:12345B,100:FF7900"
+    width="100%"
+    alt=""
+  />
 </p>
 
-## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="28" alt="" /> GitHub Activity
+<br />
+
+<h2>GitHub Activity</h2>
+
+<br />
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susicharis7&amp;theme=github_dark&amp;title_color=75C3FF&amp;text_color=D8E8FA&amp;icon_color=FF9E46&amp;bg_color=0B1B32&amp;border_color=2C5B8A&amp;chart_color=389BFF" alt="Haris Sušić’s GitHub contribution history" />
-  <br /><br />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susicharis7&amp;theme=github_dark&amp;title_color=75C3FF&amp;text_color=D8E8FA&amp;icon_color=FF9E46&amp;bg_color=0B1B32&amp;border_color=2C5B8A" alt="Haris Sušić’s GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=susicharis7&amp;theme=github_dark&amp;title_color=75C3FF&amp;text_color=D8E8FA&amp;icon_color=FF9E46&amp;bg_color=0B1B32&amp;border_color=2C5B8A" alt="Top languages by repository" />
+
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
+    alt="GitHub contribution history"
+  />
+
+  <br />
+  <br />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
+    alt="GitHub statistics"
+  />
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
+    alt="Top programming languages"
+  />
+
 </div>
 
 <br />
 
-<img src="footer.svg" width="854" alt="" />
+<div align="center">
+  <img src="footer.svg" width="100%" alt="Animated footer" />
+</div>
