@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <img src="header.svg?v=3" width="100%" alt="Haris Sušić animated header" />
@@ -23,7 +22,7 @@
 
 <p align="center">
   <strong>BSc in Information Technology</strong> &nbsp;·&nbsp; <strong>MSc in Software Engineering</strong> <em>(in progress)</em><br />
-  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" height="34" align="center" alt="IBU logo" /></a>&nbsp; International Burch University · Sarajevo
+  <a href="https://www.ibu.edu.ba/"><img src="ibu.svg" height="36" align="center" alt="IBU logo" /></a>&nbsp; International Burch University · Sarajevo
 </p>
 
 <br />
@@ -165,7 +164,7 @@
 
 <div align="center">
 
-  <img
+<img
     width="98%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
     alt="GitHub contribution history"
@@ -174,7 +173,7 @@
   <br />
   <br />
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none" alt="GitHub statistics" /><img
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none" alt="GitHub statistics" /><img
     width="49%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=susicharis7&theme=github_dark&title_color=FF7900&text_color=E7EDF5&icon_color=FF7900&bg_color=071A33&border_color=17365A&chart_color=FF7900&animation=none"
     alt="Top programming languages"
